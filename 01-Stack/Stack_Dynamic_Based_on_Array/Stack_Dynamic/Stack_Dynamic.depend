@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1685787070 source:c:\users\alimo\onedrive\desktop\stack\stack_dynamic_based_on_array\stack_dynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1685788660 c:\users\alimo\onedrive\desktop\stack\stack_dynamic_based_on_array\stack_dynamic\stack.h
+	"typedef.h"
+
+1682779873 c:\users\alimo\onedrive\desktop\stack\stack_dynamic_based_on_array\stack_dynamic\typedef.h
+
+1685788562 source:c:\users\alimo\onedrive\desktop\stack\stack_dynamic_based_on_array\stack_dynamic\stack.c
+	<stdlib.h>
+	"Stack.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1683977153 source:c:\users\alimo\onedrive\desktop\stack_test\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DS_Stack.h"
+
+1683977172 source:c:\users\alimo\onedrive\desktop\stack_test\stack\ds_stack.c
+	"DS_Stack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1683974977 c:\users\alimo\onedrive\desktop\stack_test\stack\ds_stack.h
+	"typedef.h"
+
+1683972305 c:\users\alimo\onedrive\desktop\stack_test\stack\typedef.h
+
